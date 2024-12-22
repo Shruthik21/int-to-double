@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main ()
+{
+   int total=17,values=5;
+   
+   double avg;
+   
+   avg=(double)total/values;
+   printf("The avg of all the values available is=%f\n",avg);
+}
